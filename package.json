@@ -1,0 +1,19 @@
+{
+  "name": "typescript-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-mocha test/*.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mocha": "^5.2.5",
+    "@types/node": "^10.10.1",
+    "mocha": "^5.2.0",
+    "ts-mocha": "^2.0.0",
+    "typescript": "^3.0.3"
+  }
+}
